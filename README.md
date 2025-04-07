@@ -11,16 +11,16 @@
 
 ## Projects
 
-| 분류 | 프로젝트이름 | 설명 | 기간 |
-|------|------|------|------|
-| Team | BoardParadice | 보드게임 커뮤니티 | 25.02 ~ 25.03 |
-| Team | Spring-Diary | 취업 다이어리 | 25.03 ~ |
+| 분류 | 프로젝트이름 | 설명 | 역할 | 기간 |
+|------|------|------|------|------|
+| Team | BoardParadice | 보드게임 커뮤니티 | 팀장, 소셜로그인, CRUD | 25.02 ~ 25.03 |
+| Team | Spring-Diary | 취업 다이어리 | AWS배포+Https, CI/CD, 정부정책API활용 | 25.03 ~ |
 
-## 자격증
+## Etc(Foreign, Certificates)
 
 | 날짜 | 내용 |
 |------|------|
+| 2024.12 | OPIC(IM1) |
 | 2025.03 | 정보처리기사 필기 합격(실기 준비중) |
 
-## Contact Me
-- Email: wngjsrb88@gmail.com
+
