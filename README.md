@@ -13,7 +13,7 @@
 
 | 분류 | 프로젝트이름 | 설명 | 역할 | 기간 |
 |------|------|------|------|------|
-| Team | BoardParadice | 보드게임 커뮤니티 | 팀장, 소셜로그인, CRUD | 25.02 ~ 25.03 |
+| Team | BoardParadice[Back](https://github.com/kinghama82/ebs-back)[Front](https://github.com/kinghama82/ebs-front) | 보드게임 커뮤니티 | 팀장, 소셜로그인, CRUD | 25.02 ~ 25.03 |
 | Team | Spring-Diary | 취업 다이어리 | AWS배포+Https, CI/CD, 정부정책API활용 | 25.03 ~ |
 
 ## Etc(Foreign, Certificates)
