@@ -1,7 +1,6 @@
 # About Me
-- 백엔드 개발자 지망생
-- 
-- REST API 개발과 AWS 배포에 관심 많음
+- 독서를 좋아하고 사람들과 두루두루 잘 지내는 편
+- 배울점이 있으면 흡수하려고 노력하는 개발자
 
 ## Tech Stack
 - Language: Java, JavaScript
@@ -25,5 +24,5 @@
 
 
 
-# 📬 Contact Me
+# Contact Me
 - Email: wngjsrb88@gmail.com
