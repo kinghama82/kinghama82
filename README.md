@@ -10,8 +10,11 @@
 - Tools: Git, GitHub/Actions , Postman, 
 
 # 📁 Projects
-| 분류 | 기술 |
-|------|------|
+
+| 분류 | 프로젝트이름 | 기간 |
+|------|------|------|
+| 팀 | BoardParadice | 25.02 ~ 25.03 |
+| 팀 | Spring-Diary | 25.03 ~ |
 
 ## 📌 Spring-Diary (2025.02 - 2025.03)
 > 일기장 CRUD 웹 서비스 (개인 프로젝트)
