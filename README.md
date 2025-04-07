@@ -5,11 +5,13 @@
 
 # 🛠️ Tech Stack
 - Language: Java
-- Framework: Spring Boot, Spring Security, JPA
-- Infra: AWS EC2, S3, RDS, Nginx
-- Tools: Git, GitHub, IntelliJ, Postman
+- Framework: Spring Boot, Spring Security, JPA, Next.js
+- Infra: AWS EC2, Nginx
+- Tools: Git, GitHub/Actions , Postman, 
 
 # 📁 Projects
+| 분류 | 기술 |
+|------|------|
 
 ## 📌 Spring-Diary (2025.02 - 2025.03)
 > 일기장 CRUD 웹 서비스 (개인 프로젝트)
