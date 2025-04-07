@@ -4,9 +4,10 @@
 
 ## Tech Stack
 - Language: Java, JavaScript
-- Framework: Spring Boot, Spring Security, JPA, Next.js
+- Framework: Spring Boot, Spring Security, JPA, Next.js, Bootstrap, Tailwind
 - Infra: AWS EC2, Nginx
-- Tools: Git, GitHub/Actions , Postman, 
+- Tools: Git, GitHub/Actions , Postman,
+- Etc : JWT, OAuth2, 
 
 ## Projects
 
