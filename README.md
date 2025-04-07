@@ -18,9 +18,9 @@
 
 ## Etc(Foreign, Certificates)
 
-| 날짜 | 내용 |
-|------|------|
-| 2024.12 | OPIC(IM1) |
-| 2025.03 | 정보처리기사 필기 합격(실기 준비중) |
+| 날짜 | 내용 | 주관 |
+|------|------|------|
+| 2024.12 | OPic(IM1) | [OPic](https://www.opic.or.kr/opics/jsp/view/index.jsp) |
+| 2025.03 | 정보처리기사 필기 합격(실기 준비중) | [한국산업인력공단](https://www.q-net.or.kr/man001.do?gSite=Q) | 
 
 
