@@ -4,7 +4,8 @@
 
 ## Tech Stack
 - Language: Java, JavaScript
-- Framework: Spring Boot, Spring Security, JPA, Next.js, Bootstrap, Tailwind
+- Framework: Spring Boot, React, Next.js, Bootstrap, Tailwind
+- DataBase : MySql, MariaDB
 - Infra: AWS EC2, Nginx
 - Tools: Git, GitHub/Actions , Postman,
 - Etc : JWT, OAuth2, 
