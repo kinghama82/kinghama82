@@ -3,7 +3,6 @@
 - 독서를 좋아하고 사람들과 두루두루 잘 지내는 편입니다.  
 - 배울 점이 있으면 적극적으로 흡수하려고 노력하는 개발자입니다.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +16,6 @@
 | **Style/UI**    | Bootstrap, Tailwind CSS                      |
 | **Etc**         | JWT, OAuth2                                  |
 
----
 
 ## 🚀 Projects
 
@@ -26,7 +24,6 @@
 | Team | [BoardParadice](https://www.boardparadice.com) | 보드게임 커뮤니티 사이트 | 팀장, 소셜로그인, CRUD, HTTPS + 도메인 연결 | 2025.02 ~ 2025.03 |
 | Team | [Spring-Diary](https://www.spring-diary.xyz) | 취업 다이어리 서비스 | AWS 배포, HTTPS 적용, CI/CD, 정부 정책 API 활용 | 2025.03 ~ 진행 중 |
 
----
 
 ## 📚 Etc (Foreign Language / Certificates)
 
