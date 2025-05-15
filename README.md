@@ -22,7 +22,7 @@
 | 분류 | 프로젝트명 | 설명 | 역할 | 기간 |
 |------|------------|------|------|------|
 | Team | [BoardParadice](https://www.boardparadice.com) | 보드게임 커뮤니티 사이트 | 팀장, 소셜로그인, CRUD, HTTPS + 도메인 연결 | 2025.02 ~ 2025.03 |
-| Team | [Spring-Diary](https://www.spring-diary.xyz) | 취업 다이어리 서비스 | AWS 배포, HTTPS 적용, CI/CD, 정부 정책 API 활용 | 2025.03 ~ 진행 중 |
+| Team | [Spring-Diary](https://www.spring-diary.xyz) | 취업 다이어리 서비스 | AWS 배포, HTTPS 적용, CI/CD, 정부 정책 API 활용 | 2025.04 ~ 2025.05 |
 
 
 ## 📚 Etc (Foreign Language / Certificates)
